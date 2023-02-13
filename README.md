@@ -36,7 +36,7 @@ In a Jupyter Notebook, create working solutions that demonstrate all the Learnin
 5. Data saved to files within the project file structure.
 ### Rubric
 ---
-This project will be evaluated based on the deliverables’ ability to show unit learning objectives are been met. Feedback will be given for each submission.
+This project will be evaluated based on the deliverables’ ability to show unit learning objectives have been met. Feedback will be given for each submission.
 
 Score | Expectations
 :--- | :---
