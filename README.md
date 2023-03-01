@@ -2,7 +2,7 @@
 DAT 512 Canisius College <br>
 Professor Paul Lambson<br>
 <br>
-> Due 3/3/22, link emailed by midnight.
+> Due ~3/3/23~ 3/5/23, link emailed by midnight.
 ### Learning Objectives
 ---
 To allow students to demonstrate the following competencies:
